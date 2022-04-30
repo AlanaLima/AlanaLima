@@ -1,8 +1,8 @@
 ### 👋 Olá, eu sou a Alana Lima!
 
 
-- 💬 Engenheira química de formação, apaixonada e aprendendo sobre tecnologia.
-- 🌱 Java|JavaScript
+- 💬 Engenheira química de formação, que se apaixonou por tecnologia e hoje atua como Engenheira de Software.
+- 🌱 Javascript | Java
 - 📫 Entre em contato comigo pelo [Linkedin](https://www.linkedin.com/in/alana-vieira-bb9006158/) ou pelo email: alanalv300@hotmail.com
 
 
